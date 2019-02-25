@@ -62,4 +62,4 @@ Asian_Mean = getMeanPerContinent('Asia', 3, my_file)
 continents = ["Africa","Europe","Asia"]
 mean_gdp = [Africa_Mean, Europe_Mean, Asian_Mean]
 
-plot_bar(continents, mean_gdp, 'Life Expectancy', 'this is the title', 'meangdp.png')
+plot_bar(continents, mean_gdp, 'Life Expectancy', 'Life Expectancy', 'meangdp.png')
